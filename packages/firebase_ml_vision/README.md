@@ -25,7 +25,7 @@ Optional but recommended: If you use the on-device API, configure your app to au
 </application>
 ```
 
-## Using an On-device FirbaseVisionDetector
+## Using an On-device FirebaseVisionDetector
 
 ### 1. Create a `FirebaseVisionImage`.
 
